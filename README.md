@@ -21,7 +21,7 @@ Antes de ejecutar la aplicación, asegúrate de contar con los siguientes compon
 El código fuente se encuentra modularizado en los siguientes paquetes bajo criterios de alta cohesión y bajo acoplamiento:
 * `base`: Clase abstracta base para reutilización de ID y borrado lógico.
 * `config`: Centralización del arranque y vinculación de dependencias por *setters*.
-* `entities`: Modelos puros del dominio del negocio.
+* `entities`: Modelos del dominio del negocio.
 * `enums`: Tipificados fijos del sistema (Roles de acceso).
 * `exception`: Excepciones personalizadas para el control fino de reglas de negocio.
 * `interfaces`: Contratos de comportamiento del sistema (e.g., `Calculable`).
