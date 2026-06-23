@@ -45,11 +45,11 @@ Para compilar y ejecutar la aplicación, seguí estos pasos según tu preferenci
 *Buscá el archivo Main.java dentro del paquete main, hacé clic derecho y seleccioná Run File.
 
 
-/*********************************/
+---
 
 ## 📺 Link de Youtube de la presentación: 
 https://youtu.be/VE2kflHTk24
 
 
-
+---
 
